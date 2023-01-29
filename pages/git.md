@@ -1,6 +1,7 @@
 - git是什么？
+	-
 - git可以用来干什么？
 - git是如何来做的？
 -
 - [git_tutorial](https://www.tutorialspoint.com/git/index.htm)
--
+- Git 是一个免费且开源的分布式版本控制系统，可以快速、高效地管理各种大小的项目。Git 最初是由 Linus Torvalds 设计和开发的，用于控制 Linux 内核的开发。
